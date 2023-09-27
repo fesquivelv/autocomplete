@@ -1,0 +1,24 @@
+.container {
+    position: relative;
+}
+
+.resultPanel {
+    position: absolute;
+
+    width: 100%;
+}
+
+.option {
+    text-align: start;
+    cursor: pointer;
+}
+
+.option:hover {
+    color: rgb(134, 134, 188);
+}
+
+.highlight {
+    display: inline-block;
+    background: #b98d07;
+    color: #ffffff;
+}
